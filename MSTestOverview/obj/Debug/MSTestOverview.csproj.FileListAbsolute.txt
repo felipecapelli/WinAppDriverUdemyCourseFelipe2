@@ -22,8 +22,8 @@ C:\Users\felip\Desktop\Udemy\WindowsAppDriver_Appium\MSTestOverview\MSTestOvervi
 C:\Users\felip\Desktop\Udemy\WindowsAppDriver_Appium\MSTestOverview\MSTestOverview\bin\Debug\Newtonsoft.Json.xml
 C:\Users\felip\Desktop\Udemy\WindowsAppDriver_Appium\MSTestOverview\MSTestOverview\bin\Debug\WebDriver.xml
 C:\Users\felip\Desktop\Udemy\WindowsAppDriver_Appium\MSTestOverview\MSTestOverview\bin\Debug\WebDriver.Support.xml
-C:\Users\felip\Desktop\Udemy\WindowsAppDriver_Appium\MSTestOverview\MSTestOverview\obj\Debug\MSTestOverview.csproj.AssemblyReference.cache
 C:\Users\felip\Desktop\Udemy\WindowsAppDriver_Appium\MSTestOverview\MSTestOverview\obj\Debug\MSTestOverview.csproj.CoreCompileInputs.cache
 C:\Users\felip\Desktop\Udemy\WindowsAppDriver_Appium\MSTestOverview\MSTestOverview\obj\Debug\MSTestOverview.csproj.CopyComplete
 C:\Users\felip\Desktop\Udemy\WindowsAppDriver_Appium\MSTestOverview\MSTestOverview\obj\Debug\MSTestOverview.dll
 C:\Users\felip\Desktop\Udemy\WindowsAppDriver_Appium\MSTestOverview\MSTestOverview\obj\Debug\MSTestOverview.pdb
+C:\Users\felip\Desktop\Udemy\WindowsAppDriver_Appium\MSTestOverview\MSTestOverview\obj\Debug\MSTestOverview.csproj.AssemblyReference.cache
